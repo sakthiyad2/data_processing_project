@@ -1,0 +1,16 @@
+{
+    "Total Expense": 1200,
+    "Highest Expense": {
+        "Date": "2026-03-02",
+        "Category": "Shopping",
+        "Amount": 500
+    },
+    "Lowest Expense": {
+        "Date": "2026-03-01",
+        "Category": "Transport",
+        "Amount": 50
+    },
+    "Monthly Expense": {
+        "3": 1200
+    }
+}
